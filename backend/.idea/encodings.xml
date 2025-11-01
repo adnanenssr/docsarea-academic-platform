@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/docsarea/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/file-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/gateway-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/group-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/metrics-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/review-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/social-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/storage-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docsarea/utility-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
